@@ -18,7 +18,7 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
-          The best culinari experiendce is in our hands
+          The best culinary experience is in our hands
         </p>
         <button type="button" className="custom__button">
           Know More
